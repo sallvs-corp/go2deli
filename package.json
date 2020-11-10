@@ -1,0 +1,25 @@
+{
+  "name": "go2deli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sallvs-corp/go2deli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sallvs-corp/go2deli/issues"
+  },
+  "homepage": "https://github.com/sallvs-corp/go2deli#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
